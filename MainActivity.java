@@ -1,4 +1,4 @@
-package com.example.bmicalculator; // Change this to match your package name
+package com.example.bmicalculator; 
 
 import android.os.Bundle;
 import android.view.View;
